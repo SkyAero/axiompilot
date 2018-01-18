@@ -29,13 +29,13 @@ ToDo (PX4)
 
 •	Extend all devices to uPython
 
-•	In built BMS to charge and monitor the 2s battery cell.
+•	In built BMS to charge and monitor the 2s battery cell
 
-•	On board 1G-bit of serial memory.
+•	On board 1G-bit of serial memory
 
-•	On board 1M bit  F-ram memory.
+•	On board 1M bit  F-ram memory
 
-•	On board GPS with chip antenna.
+•	On board GPS with chip antenna
 
 ToDo (UMDrive)
 ========
