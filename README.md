@@ -1,8 +1,11 @@
-# axiompilot
+# Axiompilot
 
-ToDo (ESP8266)
-========
 
+<img src="https://user-images.githubusercontent.com/35519782/35271123-1cdbd208-0057-11e8-976f-44164b65b3ef.png" width="90%"></img>
+
+
+
+## ToDo ESP8266
 
 •	uPython FC using MAVLink
 
@@ -17,8 +20,8 @@ ToDo (ESP8266)
 •	Smartphone apps (later)
 
 
-ToDo (PX4)
-========
+## PX4
+
 •	 Detect type of motors at the motor port
 
 •	 Use built in ESC for small drone, quad, plane, etc.,
@@ -37,10 +40,16 @@ ToDo (PX4)
 
 •	On board GPS with chip antenna
 
-ToDo (UMDrive)
-========
+
+## UMDrive(Univarsal motor driver)
 
 •	Extend BL-Heli to allow Stepper, DC and Servo motor control
 
 •	Freeze Universal motor port configuration
+
+## Useful resources : 
+### pixhawk, NuttX, pixracer, micropython port of esp8266, dronecode.org and dronekit, if any design used here is  missed please intimate us through the link provided contact@skykrafts.com
+
+
+
 
