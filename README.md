@@ -1,5 +1,6 @@
 # Axiompilot
-![final1](https://user-images.githubusercontent.com/35519782/38290055-f6ed7f06-37f6-11e8-9e3b-d5bd336eafe1.png)
+![final2](https://user-images.githubusercontent.com/35519782/38494474-abe3ff46-3c13-11e8-8fc4-f38a013b0d52.png)
+
 
 
 
