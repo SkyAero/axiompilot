@@ -1,8 +1,7 @@
 
 #  **Axiompilot**
 
-[final1.pdf](https://github.com/ahaThings/axiompilot/files/1894374/final1.pdf)
-
+![final1](https://user-images.githubusercontent.com/35519782/38559113-ca0e2fa0-3cef-11e8-9cfc-7043224e2c39.png)
 
 
 
