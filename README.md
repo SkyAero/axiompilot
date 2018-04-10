@@ -1,7 +1,7 @@
 
 #  **Axiompilot**
 
-![final2](https://user-images.githubusercontent.com/35519782/38494474-abe3ff46-3c13-11e8-8fc4-f38a013b0d52.png)
+[final1.pdf](https://github.com/ahaThings/axiompilot/files/1894374/final1.pdf)
 
 
 
