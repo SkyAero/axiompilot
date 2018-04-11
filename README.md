@@ -1,11 +1,10 @@
 
 #  **Axiompilot**
-
-![final1](https://user-images.githubusercontent.com/35519782/38559113-ca0e2fa0-3cef-11e8-9cfc-7043224e2c39.png)
-
+![final11](https://user-images.githubusercontent.com/35519782/38603293-d3c344fe-3d8a-11e8-814f-a79f067d7050.png)
 
 
-![nuttx](https://user-images.githubusercontent.com/35519782/38289970-9c82bee6-37f6-11e8-90f9-2439ad2d3d34.png)
+![nuttx](https://user-images.githubusercontent.com/35519782/38603308-d9a88820-3d8a-11e8-908d-1f80a5f3f407.png)
+
 
 
 
@@ -52,12 +51,12 @@
 | I2C  | 4| Header     |
 | UART  | 3  | Header        |
 | SBUS  | 3  | Header      |
-| Camera connector |  17 | Header|
-|Vbat|3|Header|
+| CAMERA CONNECTOR |  17 | Header|
+|VBAT|3|Header|
 | TELEMETRY  | 6  | JST-GH     |
 | CAN  | 4| JST-GH          |
 | JTAG  | 6  | JST-GH            |
 | USB | 4  | usb connector|
 
-**Useful resources** : pixhawk, NuttX, pixracer, micropython port of esp8266, dronecode.org and dronekit, if any design is missed please  mail @contact@skykrafts.com
+**Useful resources** : pixhawk, NuttX, pixracer, micropython port of esp8266, dronecode.org and dronekit, if any design is not attributed please mail us @ ![contact](https://user-images.githubusercontent.com/35519782/38603504-7024f1a8-3d8b-11e8-96f4-c7b0f4abc206.png)
 
