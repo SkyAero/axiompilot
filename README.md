@@ -58,8 +58,7 @@
 | JTAG  | 6  | JST-GH            |
 | USB | 4  | usb connector|
 
-**Useful resources** : pixhawk, NuttX, pixracer, micropython port of esp8266, dronecode.org and dronekit, if any design is not attributed please mail us @ 
-![contact](https://user-images.githubusercontent.com/35519782/38603944-a58c6f28-3d8c-11e8-8ffe-bb18e137bd83.png)
+**Useful resources** : pixhawk, NuttX, pixracer, micropython port of esp8266, dronecode.org and dronekit, if any design is not attributed please mail us @ ![contact](https://user-images.githubusercontent.com/35519782/38604037-deefac1c-3d8c-11e8-83f3-6787e44e152e.png)
 
 
 
